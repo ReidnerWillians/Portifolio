@@ -12,3 +12,12 @@ img{
     width: 450px;
     border-radius: 150px; 
 }
+h1{
+    font-weight: 600;
+}
+.text-primary{
+    font-size: 35px;
+    background-color:rgb(226, 223, 223);
+    border-radius: 10px;
+    font-weight: 600;
+}
