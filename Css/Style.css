@@ -1,4 +1,14 @@
-.container{
-    display: flex;
-    justify-content: space-between;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins, sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+img{
+    width: 450px;
+    border-radius: 150px; 
 }
