@@ -15,12 +15,14 @@ img{
 h1{
     font-weight: 600;
     margin-left: 80px;
+    margin-top: 50px;
     padding: 10px;
 }
 
 .btn {
-    margin-left: 85px;
-    padding: 10px;
+    margin-left: 80px;
+
+    
 }
 .text-primary{
     font-size: 35px;
