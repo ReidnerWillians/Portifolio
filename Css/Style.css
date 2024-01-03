@@ -79,4 +79,11 @@ body{
     margin-top: 50px;
 }
 
+.jobs img{
+    transition: 750ms;
+}
+
+.jobs img:hover{
+    transform: scale(1.05);
+}
 
