@@ -45,11 +45,37 @@ body{
     margin: auto;
     top: 3.2rem;
     background-color: #0368ff;
-
 }
 
 .about img{
     max-width: 400px;
-    width: 100%;
-   
+    width: 100%; 
 }
+
+.progress{
+    height: 10px;
+    
+}
+
+.progress-bar-90{
+    width: 90%;
+}
+
+.progress-bar-75{
+    width: 75%;
+}
+
+.progress-bar-60{
+    width: 60%;
+}
+
+.progress-bar-40{
+    width: 40%;
+}
+
+.skills img{
+    max-width: 500px;
+    width: 100%;
+}
+
+
