@@ -90,13 +90,12 @@ body{
 .footer{
     background-color: #213057;
     color: #fff;
-    margin-top: 5rem;
+    margin-top: 2rem;
     padding-top: 30px;
 }
 .footer a{
     color: #fff;
-    text-decoration: none;
-    
+    text-decoration: none;  
 }
 
 .footer a:hover{
